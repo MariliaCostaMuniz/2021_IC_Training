@@ -185,13 +185,13 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
 ### Frente 3: Redes de Comunicações Móveis:
 - Conhecendo o Wi-Fi
 - **Roteiro de leituras:**
-   - **TODO 3.1 (P2):** Ler Seção 14.2: IEEE 802.11 Architecture and Services do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
+   - **TODO 3.1 (P2):** Ler Seção 14.2: IEEE 802.11 Architecture and Services do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books_LTE)
       - Ricardo: **Prazo:** 30/04/2021. **Feito:** 28/04/2021.  
       - Dario: **Prazo:** 30/04/2021. **Feito:** 29/04/2021.
       - Gabriel: **Feito:** 30/07/2021. 
       - Eriberto: **Prazo:** 12/10/2021. **Feito:** 12/10/2021.
       - Leandro: **Prazo:** 18/11/2021 .**Feito:** 17/11/2021.
-   - **TODO 3.2 (P3):** Ler Seção 14.3: IEEE 802.11 Medium Access Control do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
+   - **TODO 3.2 (P3):** Ler Seção 14.3: IEEE 802.11 Medium Access Control do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books_LTE)
       - Ricardo: **Prazo:** 21/05/2021. **Feito:19/05/2021**   
       - Dario: **Prazo:** 21/05/2021. **Feito:18/05/2021** 
       - Gabriel: **Feito:** 05/08/2021. 
@@ -205,7 +205,7 @@ As Seções a seguir são usadas para a definição e acompanhamento das ativida
       - Eriberto: **Prazo:** 29/11/2021. **Feito: 27/11/2021** .
       - Leandro: **Prazo:** 28/11/2021. **Feito:** 27/11/2021
 
-   - **TODO 3.4 (P3):** Ler Seção 14.4: IEEE 802.11 Physical Layer do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books)
+   - **TODO 3.4 (P3):** Ler Seção 14.4: IEEE 802.11 Physical Layer do Livro **Wireless Communications Networking** (Stallings) (<GDrive>\GppCom_Entrance_Training\technical_material\books_LTE)
       - Ricardo: **Prazo:** 06/08/2021. **Feito:** ????.  
       - Dario: **Prazo:** 06/08/2021. **Feito:05/08/2021** ????.
       - Gabriel: **Feito:** 06/09/2021.
